@@ -11,7 +11,7 @@ El código está desarrollado en R.
 
 # Contenido
 
-**src/practica2Tipologia.Rmd**: Es un archivo de R Markdown con código generado para analizar los datos
+**practica2Tipologia.Rmd**: Es un archivo de R Markdown con código generado para analizar los datos
 
 **practica2Tipologia.pdf**: Son las respuestas a las preguntas de la práctica 
 
